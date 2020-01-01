@@ -1,2 +1,2 @@
 # OS
-Operating System Practicals of Bsc(H) Computer Science
+### Operating System Practicals of Bsc(H) Computer Science
