@@ -1,2 +1,2 @@
 # OS
-Operating System Practicals (SEM 3)
+Operating System Practicals of Bsc(H) Computer Science
